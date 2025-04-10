@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sunil
+Build-Jdk: 17.0.7
+Implementation-Title: spring-jenkins
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javatechie
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-jenkins
+Created-By: Maven Integration for Eclipse
+
